@@ -1,0 +1,2 @@
+# Clicky
+Simple Clicker game
