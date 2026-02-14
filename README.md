@@ -1,6 +1,9 @@
 # Clicky
 Simple Clicker game
 
+What I Learnt:
+1.How to save data
+
 Credits:
 Background:Paluina Riva.Art:[Click Here to see](https://opengameart.org/content/sky-background)  
 
