@@ -1,6 +1,10 @@
 # Clicky
 Simple Clicker game
 
+This game has multiple modes such as casual,timed mode and simulator mode.All you need to do is click.It is a bit buggy but i tried my best.
+There is a slo music in timed mode.
+Have fun!!!
+
 What I Learnt:
 1.How to save data
 
