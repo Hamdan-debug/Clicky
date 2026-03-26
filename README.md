@@ -1,19 +1,17 @@
 # Clicky
 Simple Clicker game
 
-This game has multiple modes such as casual,timed mode and simulator mode.All you need to do is click.It is a bit buggy but i tried my best.
-There is a slo music in timed mode.
+This game has multiple modes such as casual,timed mode and simulator mode.All you need to do is click.It is a bit buggy in the play mode but it works in godot but I tried my best.
+There is also music in timed mode.
 Have fun!!!
 
 What I Learnt:
 1.How to save data
-
+2.How to add music and loop it
 Credits:
 Assets:
-
-Upgrade menu(opening button):BDragon[Click Here to see](https://bdragon1727.itch.io/basic-pixel-gui-and-buttons-pack-2)
-
-Background:Paluina Riva.Art:[Click Here to see](https://opengameart.org/content/sky-background)  
+Sunburst:[Click Here to see](https://opengameart.org/content/sunbursts-2d-rays)
+Background (for casual mode):Paluina Riva.Art:[Click Here to see](https://opengameart.org/content/sky-background)  
 
 Code:
 Ice Bear Tutorials(Creaion of Simulator mode).Channel:[Click Here](https://www.youtube.com/@IceBearTutorials)
